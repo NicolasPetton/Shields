@@ -16,4 +16,6 @@ Four colours are available: `green` (the default), `red`, `blue`, and `purple`.
 
 This project is used in https://nicolas.petton.fr/tw/projectify.html to render
 badges in the main tiddler.
+
+<a href="./screenshots/example.png"><img src="./screenshots/example.png" alt="Grey theme"/></a>
  
